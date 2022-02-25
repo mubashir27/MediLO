@@ -1,0 +1,46 @@
+.addFormMain {
+  /* background-color: #40408d; */
+  background-image: url("https://vistapointe.net/images/medicine-2.jpg");
+  height: 100vh;
+  overflow-x: hidden;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transform: translate(0%, 0%);
+  width: 100vw;
+}
+.formMainInerEmail {
+  color: #fff;
+}
+.widthClassFormMain {
+  width: 100%;
+}
+
+.addFormPadingClass {
+  background-color: #fff;
+  width: 70%;
+  /* height: 70vh; */
+  border-radius: 0.7rem;
+  /* color: #000; */
+}
+.AddFormInput {
+  width: 90%;
+  height: 2rem;
+  border: none;
+  outline: none;
+  padding: 1rem 0;
+  font-size: 1.2rem;
+  border-bottom: 2px solid #242424;
+}
+.selectIner {
+  outline: none;
+  width: 90%;
+  font-size: 1.2rem;
+}
+.mainBtnIner {
+  outline: none !important;
+}
+.textDesignLabel {
+  font-size: 1rem;
+  font-weight: 600;
+  /* color: #000; */
+}

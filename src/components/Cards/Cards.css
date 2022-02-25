@@ -1,0 +1,18 @@
+.cardMain {
+  width: 22rem !important;
+  cursor: pointer;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.cardText {
+  font-size: 1rem;
+  font-weight: 400;
+}
+.cardTitle {
+  /* font-family: "PT Sans Narrow"; */
+
+  font-size: 3rem;
+  font-weight: 900;
+}
+.cardImg {
+  height: 14rem;
+}

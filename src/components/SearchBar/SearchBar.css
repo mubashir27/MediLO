@@ -1,0 +1,28 @@
+.dataResult {
+  /* margin-top: 5px; */
+  /* width: 300px; */
+  height: auto;
+  max-height: 15rem;
+  /* background-color: red; */
+
+  /* background-color: transparent; */
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+  overflow: hidden;
+  overflow-y: auto;
+  cursor: pointer;
+}
+
+.dataResult::-webkit-scrollbar {
+  display: none;
+}
+.dataResultInerMain:hover {
+  background-color: #9ad0ec;
+  font-size: 1.2rem;
+}
+.dataResultInerMain {
+  padding: 0.4rem 0;
+  display: flex;
+}
+.showData {
+  font-weight: 800;
+}
